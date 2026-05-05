@@ -1,4 +1,4 @@
-# emp-app
+# EmpList
 
 ## Project setup
 ```
